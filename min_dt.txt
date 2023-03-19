@@ -1,0 +1,6 @@
+10us	+-250mm
+50us	+-250mm
+100us	+-250mm
+
+10ms	+-60mm
+50ms	nothing
